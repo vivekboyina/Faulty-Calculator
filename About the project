@@ -1,17 +1,31 @@
 Faulty Calculator – A JavaScript Calculator That’s Right… Most of the Time!
 
-This is a fun, quirky project built using JavaScript that simulates a calculator—but with a twist! It intentionally gives incorrect results 10% of the time to keep users on their toes. It's a playful way to explore randomness, probability, and error-handling in JavaScript while creating something both useful and unpredictable.
+This is a fun and experimental project built using JavaScript that simulates a calculator—but with a twist! 
+
+It runs entirely in the browser’s console and intentionally gives incorrect results 10% of the time to keep users guessing.
+
+It’s a playful way to explore randomness, probability, and debugging in JavaScript while creating something unpredictable and entertaining.
+
+📟 How to Run
+
+Open this project in your browser.
+
+Open the Developer Tools (usually by pressing F12 or Ctrl+Shift+I).
+
+Go to the Console tab.
+
+Call the calculator functions and see the results—some of them will be wrong!
 
 Features
 
-✅ Basic calculator functions: addition, subtraction, multiplication, and division
-✅ Randomly introduces errors in calculations ~10% of the time
-✅ Demonstrates how randomness and logic can be manipulated in JavaScript
-✅ Great for learning about Math functions, event handling, and debugging
+✅ Supports basic operations: addition, subtraction, multiplication, and division
+✅ Randomly introduces errors about 10% of the time
+✅ Runs entirely in the browser’s console—no UI needed
+✅ Great way to experiment with JavaScript’s random functions and debugging techniques
 
 Why Build This?
 
-✔ Explore JavaScript fundamentals in a fun, low-stakes project
-✔ Experiment with probability and randomness
-✔ Learn how users might react when tools aren’t always perfect
-✔ Perfect for beginners who want to play with concepts like Math.random()
+✔ Learn how randomness and probability can affect outcomes
+✔ Practice JavaScript fundamentals like functions, conditionals, and Math.random()
+✔ Explore how error-handling and testing work in real-world applications
+✔ Ideal for beginners to practice coding in the console environment
