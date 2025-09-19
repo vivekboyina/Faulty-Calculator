@@ -1,4 +1,4 @@
-Faulty Calculator – A JavaScript Calculator That’s Right… Most of the Time!
+# Faulty Calculator – A JavaScript Calculator That’s Right… Most of the Time!
 
 This is a fun and experimental project built using JavaScript that simulates a calculator—but with a twist! 
 
