@@ -1,6 +1,6 @@
 console.log("=======Faulty Calculator=======");
 let a = Math.random()*100 + 1;
-if(a > 10)
+if(a <= 10)
 {
     console.log("Enter two numbers: ");
     let a = Number(prompt("Enter the first number: "));
