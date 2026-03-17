@@ -27,7 +27,7 @@ Each refresh runs the calculator again with a new random chance of faulty output
 ## ⚠️ Note
 
 - Most of the time results are correct  
-- Sometimes (~10%), the result will be intentionally wrong 😄  
+- Sometimes (~10%), the result will be intentionally correct 😄  
 
 ---
 
